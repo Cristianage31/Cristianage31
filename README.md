@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Cristian Gutierrez
 🎓 Bachelor's in Computer Science and Math @ Northeastern University
-📍 Lynn, MA | ✉️ [CristianAGutierrez31@gmail.com](mailto:CristianAGutierrez31@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/cristian-g-7a7a05239/)
+📍 Lynn, MA | ✉️ [CristianAGutierrez31@gmail.com](mailto:CristianAGutierrez31@gmail.com) | 
+💼 [LinkedIn](https://www.linkedin.com/in/cristian-g-7a7a05239/)
 💡 AI/ML | Software Engineering | CyberSecurity
 
 ## 🔍 Summary
