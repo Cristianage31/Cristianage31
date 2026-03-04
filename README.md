@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Cristian Gutierrez
 🎓 Bachelor's in Computer Science and Math @ Northeastern University
 
-📍 Lynn, MA | ✉️ [CristianAGutierrez31@gmail.com](mailto:CristianAGutierrez31@gmail.com) |
-
-💼 [LinkedIn](https://www.linkedin.com/in/cristian-g-7a7a05239/)
+📍 Lynn, MA | ✉️ [CristianAGutierrez31@gmail.com](mailto:CristianAGutierrez31@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/cristian-g-7a7a05239/)
 
 💡 AI/ML | Software Engineering | CyberSecurity
 
@@ -16,14 +14,14 @@ Languages: Python, Java, HTML, C/C++
 Frameworks & Tools: Django, Flask, Pygame, MongoDB, Git
 
 ## 🚀 Notable Projects
-🔹 Net Biology Lab @ UMass Boston - Integrated dimensionality reduction methods into a Django-based genomic visualization tool, with real-time statistical filtering different thresholds | Github
+🔹 Net Biology Lab @ UMass Boston - Integrated dimensionality reduction methods into a Django-based genomic visualization tool, with real-time statistical filtering different thresholds | [Github](https://github.com/PathwayAndDataAnalysis/gsplot)
 
-🔹 Protocol Outbreak - 2D top-down shooter built collaboratively with a 4-person team | GitHub
+🔹 Protocol Outbreak - 2D top-down shooter built collaboratively with a 4-person team | [GitHub](https://github.com/Protocol-Outbreak/Protocol-Outbreak)
 
 ## ⌛️ Earlier Projects
-🔸 Computer Science Study Planner - CLI task management system with automated scheduling logic | GitHub
+🔸 Computer Science Study Planner - CLI task management system with automated scheduling logic | [GitHub](https://github.com/Cristianage31/RecipeGenerator)
 
-🔸 Recipe Generator - Flask web app with automated web scraping and SQLAlchemy backend | GitHub
+🔸 Recipe Generator - Flask web app with automated web scraping and SQLAlchemy backend | [GitHub](https://github.com/Cristianage31/RecipeGenerator)
 
 ## 🧪 Currently Exploring
 🔹 CS 3100 - Software Design & Sustainability - Exploring how to write adaptable, long-lived code through real application development, design tradeoffs, and responsible use of AI coding tools
