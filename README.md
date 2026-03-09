@@ -9,7 +9,7 @@
 Undergraduate student deeply drawn to the intersection of software engineering and machine learning, looking for opportunities to grow.
 
 ## 💼 Tech Stack
-Languages: Python, Java, HTML, C/C++
+Languages: Python, Java, JavaScript, HTML, C/C++, R
 
 Frameworks & Tools: Django, Flask, Pygame, MongoDB, Git
 
