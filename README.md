@@ -27,7 +27,9 @@ Undergraduate student deeply drawn to the intersection of software engineering a
 
 ## 🧪 Currently Exploring
 🔹 **Artificial Intelligence**: search, reinforcement learning, and neural networks with PyTorch
+
 🔹 **Matrix Methods for ML**: SVD/PCA, optimization, and backpropagation
+
 🔹 **Software Engineering**: team-based TypeScript/React development with Vitest and Playwright
 
 Thanks for stopping by! Feel free to check out my pinned repos or connect with me 🤝
